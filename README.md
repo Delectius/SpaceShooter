@@ -30,3 +30,8 @@ The game over screen after the player has lost all 3 hearts.
 
 ![image](https://user-images.githubusercontent.com/54373272/186045312-b3f4b183-28e1-45ac-97f7-80f68975ac4c.png)
 
+A full size picture of the window and what the players will see.
+
+![image](https://user-images.githubusercontent.com/54373272/186050108-3a50fd03-dccb-4691-8b57-b441bf81cc51.png)
+
+
