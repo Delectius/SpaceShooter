@@ -1,5 +1,8 @@
-# SpaceShooter
 # Description
+A 2D game in which the player can move with the arrow keys and fire at 2D rocks that split into two medium rocks that, if shot again, split into two smaller rocks. The spaceship can collect a limited amount of smaller rocks and can accumulate points. The goal is to survive with the highest score.
+# Demonstration
+(The GIFS takes a sec to load)
+
 The player controlling the spaceship can use the arrow keys to navigate.
 
 ![Alt Text](https://i.gyazo.com/b337cbe488c5c9959aef7a5b0f42c301.gif)
@@ -35,4 +38,5 @@ A full size picture of the window and what the players will see.
 
 ![image](https://user-images.githubusercontent.com/54373272/186050108-3a50fd03-dccb-4691-8b57-b441bf81cc51.png)
 
-
+# Implementation
+Download the file. Open it on an IDE, preferably on NetBeans and download the JAVA Slick2D library. You need to implement the library on the IDE and set the execution path to the downloaded SLICK folder.
