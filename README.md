@@ -1,4 +1,5 @@
 # SpaceShooter
+# Description
 The player controlling the spaceship can use the arrow keys to navigate.
 
 ![Alt Text](https://i.gyazo.com/b337cbe488c5c9959aef7a5b0f42c301.gif)
